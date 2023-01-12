@@ -1,0 +1,4 @@
+-> Pegar uma dummy api
+-> Analizar modelo de dados
+-> Povoar o banco de dados com prisma
+-> Criar uma api CRUD para esse modelo de dados
